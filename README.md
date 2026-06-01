@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Lavanya K
 
-<!--
-**Lavanyakothara/Lavanyakothara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence & Machine Learning Student
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Currently learning Python, SQL, DSA, and Machine Learning
+- 💻 Building AI and Web Development projects
+- 🚀 Goal: Become an AI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Machine Learning
+
+## Projects
+- AI Placement Predictor
+- Spam Email Detection
+- Mini CRM Pro
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/lavanya-kothara-aa7b35320?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+⭐ Always learning and building new projects.
