@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lavanya K
+# Hi, I'm Lavanya K
 
 🎓 B.Tech Artificial Intelligence & Machine Learning Student
 
